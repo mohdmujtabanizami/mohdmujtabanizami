@@ -1,5 +1,5 @@
 # Hi, I'm Mohd Mujtaba Nizami 👋
-
+Backend Developer | Node.js | Express.js | MongoDB | Java
 ## About Me
 - Computer Science Engineering Student
 - Backend Developer
