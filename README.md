@@ -1,71 +1,94 @@
 # Hi, I'm Mohd Mujtaba Nizami 👋
 
-### Backend Developer | CSE Student
+### Frontend Developer | CSE Student
 
-Computer Science Engineering student passionate about Backend Development and Database-Driven Applications. Currently learning and building projects using Node.js, Express.js, MongoDB, Java, and Python.
+Computer Science Engineering student passionate about Frontend Development and creating responsive, user-friendly web applications. Currently building projects using React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and modern frontend technologies.
 
 ## About Me
 
-- 🎓 B.Tech CSE Student (Graduating in 2026)
-- 💻 Interested in Backend Development
-- 🌱 Currently learning Cloud Computing and Backend Technologies
-- 🚀 Building REST APIs and Database-Driven Applications
-- 🤝 Open to Internship and Entry-Level Opportunities
+* 🎓 B.Tech CSE Student (Graduating in 2026)
+* 💻 Interested in Frontend Development and UI/UX
+* 🌱 Currently learning advanced React.js and modern web technologies
+* 🚀 Building responsive web applications and interactive user interfaces
+* 🤝 Open to Internship and Entry-Level Frontend Developer Opportunities
 
 ## Skills
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+### Frontend Technologies
+
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Responsive Web Design
 
 ### Programming Languages
-- Java
-- Python
-- JavaScript
-- C
-- C++
 
-### Databases
-- MongoDB
-- MySQL
+* JavaScript
+* Java
+* Python
+* C
+* C++
+
+### Frontend Fundamentals
+
+* DOM Manipulation
+* ES6+
+* Flexbox
+* CSS Grid
+* React Router
+
+### Web Technologies
+
+* REST API Integration
+* JSON
+* Firebase Authentication
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+
+* Git
+* GitHub
+* VS Code
+* Vite
+* Chrome DevTools
 
 ## Projects
 
+### ScoreHub – Live Football Scores & Statistics Platform
+
+**Role:** Frontend Developer
+
+**My Contributions:**
+
+* Developed a responsive football web application using React.js.
+* Integrated football APIs to display live scores, fixtures, standings, and player statistics.
+* Built reusable React components and dynamic routing for teams, players, and match details.
+* Implemented Firebase Authentication with Google Sign-In.
+* Optimized application performance and enhanced user experience.
+
 ### AI-Powered E-Commerce Website with Dynamic Bargaining System
 
-**Role:** Backend Developer (Team Project)
+**Role:** Frontend Developer (Team Project)
 
 **My Contributions:**
-- Developed REST APIs using Node.js and Express.js
-- Implemented JWT Authentication
-- Integrated MongoDB Database
-- Built backend logic for user and product management
 
-### AI Model Web Interface
-
-**My Contributions:**
-- Developed backend functionality using Java and Python
-- Designed APIs for AI model communication
-- Implemented request and response handling
+* Developed responsive user interfaces using React.js and Next.js.
+* Built reusable UI components for product browsing and bargaining features.
+* Integrated REST APIs for product management, authentication, and price negotiation.
+* Implemented responsive design using Tailwind CSS for seamless experience across devices.
 
 ## Research Publication
 
-**AI-Powered Bargaining System for E-Commerce Platforms**
+### AI-Powered Bargaining System for E-Commerce Platforms
 
-- Research focused on AI-based negotiation systems in e-commerce
-- Studied customer engagement and dynamic pricing strategies
+* Conducted research on AI-powered negotiation systems in e-commerce.
+* Analyzed customer engagement, dynamic pricing strategies, and user behavior.
+* Documented research findings following academic publication standards.
 
 ## Connect With Me
 
-📧 Email: nizamimujtaba391@gmail.com
+📧 Email: [nizamimujtaba391@gmail.com](mailto:nizamimujtaba391@gmail.com)
 
 💼 LinkedIn:
 https://www.linkedin.com/in/mohd-mujtaba-nizami-btech1707
